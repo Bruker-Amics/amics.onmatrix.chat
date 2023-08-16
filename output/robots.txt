@@ -1,0 +1,4 @@
+Sitemap: https://www.siwhitewater.club/sitemapindex.xml
+
+User-Agent: *
+Host: www.siwhitewater.club
